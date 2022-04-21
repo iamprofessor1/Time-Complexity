@@ -23,11 +23,13 @@ _A function  f(x)  is  said  to  be  growing  faster  than   g(x)_   if
 
 ## Notation 
 
-**Big O** -> Represents exact bound or upper Bound. 
+Asymptotic notations are mathematical tools to represent the time complexity of algorithms for asymptotic analysis. 
 
-**Theta** -> Represents exact bound.
+1.**Big O** -> Represents exact bound or upper Bound. 
 
-**Omega** -> Represents exact or lower bound. (opposite of Big O).
+2.**Theta** -> Represents exact bound.
+
+3.**Omega** -> Represents exact or lower bound. (opposite of Big O).
 
 
 Used for space and time Complexity for notation.
